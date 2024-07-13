@@ -1,0 +1,84 @@
+nav {
+    margin-bottom: 50px;
+    background-image: url("../image/Hero-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+body {
+    border: 30px 30px;
+
+
+}
+
+
+.main-container {
+    margin-top: 30px;
+
+
+}
+
+.banner {
+    text-align: center;
+    /* background-repeat: no-repeat;
+    background-size: 500px; */
+}
+
+
+h3 {
+    font-size: 40px;
+
+}
+
+.btn {
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    margin: 20px 20px;
+}
+
+
+.header {
+    margin: 200px 0px 200px;
+}
+
+
+.secon-bnr {
+    text-align: center;
+}
+
+.third-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+p {
+
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+
+
+.forth-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.last-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 200px 0px 200px 0px;
+}
+
+
+.inspiring-contant {
+    text-align: center;
+    margin-bottom: 100px;
+}
